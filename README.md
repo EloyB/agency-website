@@ -1,16 +1,16 @@
 ## Project information
 
-**Name:** _project name_
-**Project Start Date:** _project name_
-**Description:** _project name_
+**Name:** Website
+**Project Start Date:** 29 March 2024
+**Description:** Website for the web design agency
 **Repository:** _repository URL_
-**Figma File:** _figma URL_
+**Figma File:** [Figma Design](https://www.figma.com/file/b8acBML84oWOebYtsNPiiH/QWeb?type=design&node-id=1-2&mode=design&t=HFEhuhqts4KN4RpH-0)
 
 ## Tech stack
 
 **Frontend:** NextJS + Typescript + Tailwind
-**Backend:** _backend technology_
-**Database:** _database type_
+**Backend:** /
+**Database:** /
 
 ## File structure
 
